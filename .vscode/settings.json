@@ -1,0 +1,7 @@
+{
+  "files.associations": {
+    "javascript": "javascriptreact"
+  },
+  "prettier.printWidth": 120,
+  "prettier.tabWidth": 4
+}
